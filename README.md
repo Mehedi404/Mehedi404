@@ -41,7 +41,7 @@
    <a href="https://twitter.com/obaidulsaiki">
       <img alt="Twitter" title="Twitter" src="https://custom-icon-badges.demolab.com/badge/Twitter-%231DA1F2?style=for-the-badge&labelColor=1A91DA&logo=twitter&logoColor=white"/>
    </a>
-   <a href="https://www.instagram.com/mehedi.cse74)">
+   <a href="https://www.instagram.com/mehedi.cse74">
       <img alt="Instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-%23E1306C?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white"/>
    </a>
    <a href="https://www.linkedin.com/in/Mehedi404">
