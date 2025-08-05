@@ -11,7 +11,7 @@
 
 🧠 As a budding researcher, I enjoy exploring smart environments, machine learning integration, and real-world applications of technology.
 
-🚀 I’m always open to collaborative projects, internships, and tech communities focused on innovation. Let’s connect and build something impactful!
+🚀 I’m always interested to collaborative projects and tech communities focused on innovation. Let’s connect and build something impactful!
 ---
    
 ##  Languages and Tools 
@@ -35,33 +35,33 @@
 ## 📫 How to reach me
 
 <p align="left">
-   <a href="https://github.com/obaidulsaiki">
+   <a href="https://github.com/Mehedi404">
       <img alt="GitHub" title="GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-%23236ad3?style=for-the-badge&labelColor=1155ba&logo=github&logoColor=white"/>
    </a>
    <a href="https://twitter.com/obaidulsaiki">
       <img alt="Twitter" title="Twitter" src="https://custom-icon-badges.demolab.com/badge/Twitter-%231DA1F2?style=for-the-badge&labelColor=1A91DA&logo=twitter&logoColor=white"/>
    </a>
-   <a href="https://www.instagram.com/obaidulsaiki">
+   <a href="https://www.instagram.com/mehedi.cse74)">
       <img alt="Instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-%23E1306C?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white"/>
    </a>
-   <a href="https://www.linkedin.com/in/obaidulsaiki">
+   <a href="https://www.linkedin.com/in/Mehedi404">
       <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%230A66C2?style=for-the-badge&labelColor=0A66C2&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://www.facebook.com/obidul.saki ">
+   <a href="https://web.facebook.com/mehedi.hasan.856504">
       <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/Facebook-%2340A3E8?style=for-the-badge&labelColor=3b5998&logo=facebook&logoColor=white"/>
    </a>
-	<a href="https://wa.me/8801883440377">
+	<a href="https://wa.me/01580580377">
       <img alt="WhatsApp" title="WhatsApp" src="https://custom-icon-badges.demolab.com/badge/WhatsApp-%2394C25E?style=for-the-badge&labelColor=25D366&logo=whatsapp&logoColor=white"/>
    </a>
 </p>
 
 ## Stats  
-[![Obaidulsaiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=obaidulsaiki)](https://github.com/obaidulsaiki/github-readme-stats)
+[![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehedi404)](https://github.com/Mehedi404/github-readme-stats)
 
 # Language proficiency   
-![](https://github-readme-stats.vercel.app/api?username=obaidulsaiki&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=obaidulsaiki&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=obaidulsaiki&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Mehedi404&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Mehedi404&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi404&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # Github Contribution
-![](https://github-contributor-stats.vercel.app/api?username=obaidulsaiki&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Mehedi404&limit=5&theme=dark&combine_all_yearly_contributions=true)
