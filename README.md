@@ -2,12 +2,12 @@
 
 
 <h1 align="center">Hi, Mehedi Hasan here 👋</h1>
-## Associate SOftware Engineer and Research Enthusiast
+## Associate Software Engineer and Research Enthusiast
 
 <p align="justify">
 👋 Hi, I’m Md Mehedi Hasan — a passionate Computer Science & Engineering student at IUBAT, driven by the goal of building intelligent systems that bridge the gap between hardware and software.
 
-🔧 I specialize in C++, Python (Django), and full-stack development, applying these skills in areas like Robotics, IoT, automation, and embedded systems. I love building solutions that are not only functional but scalable and meaningful.
+🔧 I specialize in C++, Python (Django),FastAPI and full-stack development, applying these skills in areas like Robotics, IoT, automation, and embedded systems. I love building solutions that are not only functional but scalable and meaningful.
 
 🧠 As a budding researcher, I enjoy exploring smart environments, machine learning integration, and real-world applications of technology.
 
